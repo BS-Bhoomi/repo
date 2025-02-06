@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature : basic login functionality added.
+=======
+Feature: User Authentication
+>>>>>>> feature-update
